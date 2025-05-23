@@ -1,29 +1,11 @@
-<p align="center">
-<img 
-    src="./assets/Icone Vozes Sintéticas.png"
-    width="300"
-/>
-</p>
-
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
-    preview do podcast
-</p>
+<div align="center">
+<img src="./assets/Icone Vozes Sintéticas.png" width="300" />
+<h3>PODCAST - Vozes Sintéticas</h3>
+<a href="./output/podcast_editado.mp3"><img src="./assets/player.png" width="300" /></a>
+</div>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+<a href="./output/podcast_editado.mp3">Escute ao podcast ⬆️</a>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
